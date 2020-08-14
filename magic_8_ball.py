@@ -1,7 +1,7 @@
 import random
 print("-----------------------------------------------------")
 print("------------------- Magic 8 Ball --------------------")
-print('-----------------------------------------------------\n\n')
+print('-----------------------------------------------------\n')
 
 magicAnswer = 0
 rerolls = 3
@@ -20,6 +20,7 @@ if decision == 'Y':
     print('Here we go')
     print(magicAnswer)
 elif decision == 'N':
+    magicAnswer = None
     print('Ok, maybe tomorrow')
 else:
     print('Sorry I did not understand that option')
