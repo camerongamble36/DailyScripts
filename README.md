@@ -1,5 +1,7 @@
 # Daily Python Scripts
 
+Wake up and decide on a script to write for the day, then later on after 30 days I can update them to be more complex.
+
 > Creating a basic python script everyday for 30 days
 
 1. Create New File 8/11/20
