@@ -6,3 +6,4 @@
 2. Day Overview 8/12/20
 3. Magic 8 Ball 8/13/20
 4. Hello World 8/14/20
+5. New Idea 8/15/20
