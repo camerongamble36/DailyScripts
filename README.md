@@ -13,4 +13,5 @@ Wake up and decide on a script to write for the day, then later on after 30 days
 7. Random Baby Names 8/17/20 **Completed: 8/18/20** (Needs Update 8/19)
 8. Random Dice Rolling Simulator 8/19/20
 9. TKinter Text Editor App 8/19/20
-10. Tomorrow
+10. Tomorrow (Binary Search For Ice cream)
+11. Story Generator
