@@ -1,4 +1,4 @@
-# Daily Python Scripts
+# Daily Python Scripts (Incomplete because of school starting)
 
 Wake up and decide on a script to write for the day, then later on after 30 days I can update them to be more complex.
 
@@ -15,3 +15,4 @@ Wake up and decide on a script to write for the day, then later on after 30 days
 9. TKinter Text Editor App 8/19/20
 10. Binary Search For Ice cream 8/20/20 (Needs Update 8/20)
 11. Story Generator
+ 
